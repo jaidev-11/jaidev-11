@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
----
+------------------------------------------------------------------------
 
 ## 🧠 About Me
 
-- 🔭 Currently working wit real-time embedded systems on ARM7 (LPC2129)
+- 🔭 Currently working on real-time embedded systems with ARM7 - LPC2129
 - 🌱 Exploring **UART, I2C, SPI, and CAN communication protocols**
 - 💻 Writing low-level code with **C, C++, and Embedded C**
 - 🚗 Passionate about **Automotive Embedded & Electronics**
@@ -49,32 +49,21 @@ You can click the Preview link to take a look at your changes.
 ![SPI](https://img.shields.io/badge/SPI-00ACC1?style=for-the-badge)
 ![CAN](https://img.shields.io/badge/CAN-8E24AA?style=for-the-badge)
 
----
+------------------------------------------------------------------------
 
 ### 🖥️ Development Environment
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil_µVision-181717?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-E95420?style=for-the-badge&logo=github&logoColor=white)
 
-------------------------------------------------------------------------
-
-### 🛠️ Tools & Debugging
+### Tools & Debugging
 
 ![Proteus](https://img.shields.io/badge/Proteus-009688?style=for-the-badge)
-![Valgrind](https://img.shields.io/badge/Valgrind-7B1FA2?style=for-the-badge)
 ![GDB](https://img.shields.io/badge/GDB-455A64?style=for-the-badge)
+![Valgrind](https://img.shields.io/badge/Valgrind-7B1FA2?style=for-the-badge)
 ![CANoe](https://img.shields.io/badge/CANoe-E95420?style=for-the-badge)
-
-------------------------------------------------------------------------
-
-## 🚀 Featured Projects
-
-| Project | Description | Language |
-|---------|-------------|----------|
-| [🔧 C-Preprocessor](https://github.com/jaidev-11/C-Preprocessor) | A simplified implementation of a C Preprocessor from scratch | C |
-| [🎓 Student Database](https://github.com/jaidev-11/Student_database) | A database management system for student records | C |
 
 ------------------------------------------------------------------------
 
