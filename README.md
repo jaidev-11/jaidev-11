@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 Exploring **UART, I2C, SPI, and CAN communication protocols**
 - 💻 Writing low-level code with **C, C++, and Embedded C**
 - 🚗 Passionate about **Automotive Embedded & Electronics**
-- 🎯 Goal: Land a full-time role in **Firmware/Electronics** and ship real-world hardware products
+- 🎯 Goal: Land a full-time role in **Embedded/Firmware** and ship real-world hardware products
 
 ------------------------------------------------------------------------
 
@@ -55,14 +55,12 @@ You can click the Preview link to take a look at your changes.
 
 ![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil_µVision-181717?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-E95420?style=for-the-badge&logo=github&logoColor=white)
 
 ### Tools & Debugging
 
 ![Proteus](https://img.shields.io/badge/Proteus-009688?style=for-the-badge)
 ![GDB](https://img.shields.io/badge/GDB-455A64?style=for-the-badge)
-![Valgrind](https://img.shields.io/badge/Valgrind-7B1FA2?style=for-the-badge)
 ![CANoe](https://img.shields.io/badge/CANoe-E95420?style=for-the-badge)
 
 ------------------------------------------------------------------------
